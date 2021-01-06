@@ -1,0 +1,13 @@
+{"sectborder" : 
+	{"positions": [{"bcol": [50, 50, 50], "stpnt": [10, 10], "endpnt": [1060, 10]}, 
+		{"bcol": [50, 50, 50], "stpnt": [10, 10], "endpnt": [10 , 710]}, 
+		{"bcol": [50, 50, 50], "stpnt": [1060, 10], "endpnt": [1060 , 710]}, 
+		{"bcol": [50, 50, 50], "stpnt": [1060, 710], "endpnt": [10 , 710]}]} ,
+
+"startmenu" : 
+	{"background" : "startmenu.jpg", "buttons" : [{"text" : "START", "action" : "startnew", "x" : 500, "y" : 500, "h" : 50, "w" : 50},
+		{"text" : "LOAD", "action" : "loadlevel", "x" : 100, "y" : 100, "h" : 90, "w" : 21}]}
+
+
+
+}
